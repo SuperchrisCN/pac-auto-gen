@@ -6,7 +6,6 @@ on:
   push:
     branches: [master]
     paths:
-      - ".github/update.txt"
       - "user-rules.txt"
 
 jobs:
