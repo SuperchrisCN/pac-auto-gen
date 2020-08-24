@@ -9,3 +9,6 @@
 
 ! 2020/08/21 代理npmjs.com
 *.npmjs.com
+
+! 2020/08/24 补充github.io
+*.github.io
