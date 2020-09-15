@@ -33,12 +33,13 @@ jobs:
         run: genpac --format "pac" --pac-proxy "$C1" --user-rule-from $C2 > pac.txt
 
       - name: Get current date
+        id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
       - name: Commit and push
         uses: EndBug/add-and-commit@v4
         with:
-          message: update pac.txt ${{ steps.date.outputs.date }}
+          message: ${{ steps.date.outputs.date }} update pac.txt
           add: "*.txt"
           author_name: "actions-user"
           author_email: "actions@github.com"
