@@ -30,7 +30,7 @@ jobs:
           packages: genpac
 
       - name: Run genpac
-        run: genpac --format "pac" --pac-proxy $C1 --user-rule-from $C2 > pac.txt
+        run: genpac --format "pac" --pac-proxy "$C1" --user-rule-from $C2 > pac.txt
 
       - name: Get current date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
