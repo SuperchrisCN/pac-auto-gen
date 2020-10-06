@@ -12,3 +12,7 @@
 
 ! 2020/08/24 补充github.io
 *.github.io
+
+! 2020/10/06 代理Codacy
+codacy.com
+script.hotjar.com
