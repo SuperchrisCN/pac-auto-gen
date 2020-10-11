@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2020-10-06 04:46:17
- * GFWList Last-Modified: 2020-09-23 13:57:31
+ * Generated: 2020-10-11 00:57:22
+ * GFWList Last-Modified: 2020-10-08 14:37:39
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -301,6 +301,7 @@ var rules = [
             "alicejapan.co.jp",
             "aliengu.com",
             "alkasir.com",
+            "all4mom.org",
             "allcoin.com",
             "allconnected.co",
             "alldrawnsex.com",
@@ -762,6 +763,7 @@ var rules = [
             "cam4.jp",
             "cam4.sg",
             "camfrog.com",
+            "campaignforuyghurs.org",
             "cams.com",
             "cams.org.sg",
             "canadameet.com",
@@ -1708,6 +1710,7 @@ var rules = [
             "freegao.com",
             "freehongkong.org",
             "freeilhamtohti.org",
+            "freekazakhs.org",
             "freekwonpyong.org",
             "freelotto.com",
             "freeman2.com",
@@ -1909,6 +1912,7 @@ var rules = [
             "gmll.org",
             "gmodules.com",
             "gnci.org.hk",
+            "gnews.org",
             "go-pki.com",
             "go141.com",
             "goagent.biz",
@@ -2298,6 +2302,7 @@ var rules = [
             "helpeachpeople.com",
             "helplinfen.com",
             "helpster.de",
+            "helpuyghursnow.org",
             "helpzhuling.org",
             "hentai.to",
             "hentaitube.tv",
@@ -2551,6 +2556,7 @@ var rules = [
             "iicns.com",
             "ikstar.com",
             "ikwb.com",
+            "ilhamtohtiinstitute.org",
             "illusionfactory.com",
             "ilove80.be",
             "ilovelongtoes.com",
@@ -3143,6 +3149,7 @@ var rules = [
             "mimivip.com",
             "mimivv.com",
             "mindrolling.org",
+            "mingdemedia.org",
             "minghui-a.org",
             "minghui-b.org",
             "minghui-school.org",
@@ -3985,6 +3992,7 @@ var rules = [
             "renyurenquan.org",
             "rerouted.org",
             "resilio.com",
+            "resistchina.org",
             "retweeteffect.com",
             "retweetist.com",
             "retweetrank.com",
@@ -4361,6 +4369,7 @@ var rules = [
             "stackoverflow.com",
             "stage64.hk",
             "standupfortibet.org",
+            "standwithhk.org",
             "stanford.edu",
             "starfishfx.com",
             "starp2p.com",
@@ -4620,7 +4629,6 @@ var rules = [
             "tibet-envoy.eu",
             "tibet-foundation.org",
             "tibet-house-trust.co.uk",
-            "tibet-info.net",
             "tibet-initiative.de",
             "tibet-munich.de",
             "tibet.a.se",
@@ -4825,6 +4833,7 @@ var rules = [
             "turbobit.net",
             "turbohide.com",
             "turbotwitter.com",
+            "turkistantimes.com",
             "turntable.fm",
             "tushycash.com",
             "tutanota.com",
