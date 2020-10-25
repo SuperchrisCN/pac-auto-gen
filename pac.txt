@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2020-10-18 01:00:05
- * GFWList Last-Modified: 2020-10-08 14:37:39
+ * Generated: 2020-10-25 01:03:23
+ * GFWList Last-Modified: 2020-10-20 16:11:38
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2223,6 +2223,7 @@ var rules = [
             "gstatic.com",
             "gtricks.com",
             "gts-vpn.com",
+            "gtv.org",
             "gu-chu-sum.org",
             "guaguass.com",
             "guaguass.org",
